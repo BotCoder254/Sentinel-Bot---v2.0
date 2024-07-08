@@ -1,0 +1,29 @@
+
+{
+    "prefix": "!",
+    "welcome_message": "hello welcome",
+    "farewell_message": "good bye see you soon",
+    "forbidden_words": [
+        "badword1",
+        "badword2",
+        "badword3"
+    ],
+    "auto_role": null,
+    "custom_commands": {},
+    "logging_channel": null,
+    "bot_status": "Guarding the server",
+    "bot_color": "0xFF0000",
+    "mod_roles": [
+        "Moderator",
+        "Admin"
+    ],
+    "user_roles": [
+        "Member"
+    ],
+    "raid_protection": false,
+    "raid_threshold": 5,
+    "raid_time_window": 10,
+    "anti_spam": false,
+    "spam_threshold": 5,
+    "spam_time_window": 5
+}
