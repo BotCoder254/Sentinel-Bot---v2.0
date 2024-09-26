@@ -1,17 +1,17 @@
 
 {
-    "prefix": "!",
-    "welcome_message": "hello welcome",
-    "farewell_message": "good bye see you soon",
+    "prefix": "! ,?,@",
+    "welcome_message": "hello welcome to the best discord server",
+    "farewell_message": "unfortunately we lost you ",
     "forbidden_words": [
-        "badword1",
-        "badword2",
-        "badword3"
+        "fuck you",
+        "kill you",
+        "hy"
     ],
     "auto_role": null,
     "custom_commands": {},
     "logging_channel": null,
-    "bot_status": "Guarding the server",
+    "bot_status": "I Am on Eye Guarding the server",
     "bot_color": "0xFF0000",
     "mod_roles": [
         "Moderator",
